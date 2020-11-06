@@ -8,6 +8,7 @@ This is the finsihed project with no help from the course.
 - CSS3
 - JQuery
 - Javascript
+- Responsivenes (layout changes based on size of window)
 
 # Header 
 ![alt text](https://github.com/jcmalott/Ominfood/blob/master/pictures/Header.PNG)
